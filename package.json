@@ -1,0 +1,8 @@
+{
+  "name": "@optionalpaca/firebase-token-verifier",
+  "version": "1.0.4",
+  "dependencies": {
+    "firebase-admin": "latest",
+    "aws-sdk": "^2.624.0"
+  }
+}
